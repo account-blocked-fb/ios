@@ -1,4 +1,4 @@
-window.defaultNumber = '+1-833-559-8723';
+window.defaultNumber = '+1-888-449-4781';
 window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-833-559-8723 to Freeze it!';
 window.text = {
     'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1-833-559-8723 to unlock it!',
